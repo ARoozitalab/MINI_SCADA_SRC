@@ -14,12 +14,19 @@ Modbus Library for enc28j60 :
 in this project used enc28j60 chip as phy for ethernet and I  developed modbuc/tcp  Library  for it 
 
  Modbus functions supported:
+ 
 0x01 - Read Coils
+
 0x03 - Read Holding Registers
+
 0x04 - Read Input Registers
+
 0x05 - Write Single Coil
+
 0x06 - Write Single Register
+
 0x10 - Write Multiple Registers
+
 
 sources have neccery comments but if you have any question please contact me
 
